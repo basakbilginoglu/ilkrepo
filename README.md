@@ -4,6 +4,8 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/)  Front-End Eğitiminde oluştu
 ## Installation
 -liste1
 -liste2
+- liste1
+- liste2
 
 
 
